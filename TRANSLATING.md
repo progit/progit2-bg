@@ -30,7 +30,7 @@ The following are guidelines to help you on your way:
 | Español    | [progit/progit2-es](https://github.com/progit/progit2-es) |
 | فارسی | [progit2-fa/progit2](https://github.com/progit2-fa/progit2) |
 | Français   | [progit/progit2-fr](https://github.com/progit/progit2-fr) |
-| Deutsch    | [progit-de/progit2](https://github.com/progit-de/progit2) |
+| Deutsch    | [progit/progit2-de](https://github.com/progit/progit2-de) |
 | Ελληνικά   | [progit2-gr/progit2](https://github.com/progit2-gr/progit2) |
 | Indonesian | [progit/progit2-id](https://github.com/progit/progit2-id) |
 | Italiano   | [progit/progit2-it](https://github.com/progit/progit2-it) |
@@ -40,7 +40,7 @@ The following are guidelines to help you on your way:
 | Bahasa Melayu| [progit2-ms/progit2](https://github.com/progit2-ms/progit2) |
 | Nederlands | [progit/progit2-nl](https://github.com/progit/progit2-nl) |
 | Polski | [progit2-pl/progit2-pl](https://github.com/progit2-pl/progit2-pl) |
-| Português (Brasil) | [progit2-pt-br/progit2](https://github.com/progit2-pt-br/progit2) |
+| Português (Brasil) | [progit/progit2-pt-br](https://github.com/progit/progit2-pt-br) |
 | Русский   | [progit/progit2-ru](https://github.com/progit/progit2-ru) |
 | Slovenščina  | [progit/progit2-sl](https://github.com/progit/progit2-sl) |
 | Српски   | [progit/progit2-sr](https://github.com/progit/progit2-sr) |
